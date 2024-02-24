@@ -75,7 +75,6 @@ CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 海南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
 甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
-甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3
 新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
@@ -153,10 +152,10 @@ iHOT 爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/60000000060002
 iHOT 爱玩具,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 iHOT 爱喜剧,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 港澳台,#genre#
+凤凰卫视,http://171.88.174.26:8123/udp/239.93.0.162:2192
+凤凰资讯,http://171.88.174.26:8123/udp/239.93.0.118:2191
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视,http://lhq-cctv.8866.org:18181/tsfile/live/1214_1.m3u8
-凤凰资讯,http://lhq-cctv.8866.org:18181/tsfile/live/1221_1.m3u8
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
