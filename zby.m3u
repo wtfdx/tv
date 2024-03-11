@@ -71,8 +71,6 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001273/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="央视",黑莓动画
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百视通" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="央视",百视通
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000027/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000027&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视",中国天气
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="中国教育1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",中国教育1
