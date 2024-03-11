@@ -123,7 +123,7 @@ CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909
 太白,http://1.83.163.71:8888/udp/239.111.205.251:5140
 陇县,http://1.83.163.71:8888/udp/239.111.205.252:5140
 榆林-1,http://1.83.163.71:8888/udp/239.112.205.177:5140
-榆林-2,http://1.83.163.71:8888/udp/239.111.205.249:
+榆林-2,http://1.83.163.71:8888/udp/239.111.205.249:5140
 安康1套,http://1.83.163.71:8888/udp/239.112.205.216:5140
 岚皋,http://1.83.163.71:8888/udp/239.111.205.248:5140
 紫阳综合,http://1.83.163.71:8888/udp/239.112.205.220:5140
@@ -196,6 +196,11 @@ iHOT 爱喜剧,http://zteres.sn.chinamobile.com:6060/000000001000/60000000060000
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
 香港32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+HBO HD,http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
+HBO 家庭,http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
+HBO 强档,http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
+CINEMAX HD,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
