@@ -89,14 +89,14 @@ CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-金鹰卡通,http://116.128.243.121:9901/tsfile/live/1007_1.m3u8
+金鹰卡通,http://ddns.cyruslee.top:8888/udp/239.77.0.164:5146
 金鹰卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
 卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 优漫卡通,http://180.109.221.32:8888/rtp/239.49.9.39:6000vid=2041&prioritypopid=40&vqe=3
 优漫卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
-嘉佳卡通,http://113.100.72.182:8899/udp/239.77.0.179:5146
+嘉佳卡通,http://121.237.244.154:8000/rtp/239.49.9.39:6000vid=2041&prioritypopid=40&vqe=3
 嘉佳卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
@@ -193,6 +193,7 @@ iHOT 爱喜剧,http://zteres.sn.chinamobile.com:6060/000000001000/60000000060000
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://125.71.250.138:8899/udp/239.93.0.162:2192
 凤凰中文,http://125.71.250.138:8899/udp/239.93.1.9:2192
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://125.71.250.138:8899/udp/239.93.0.118:2191
 凤凰资讯,http://125.71.250.138:8899/udp/239.93.1.4:2191
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
