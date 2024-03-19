@@ -19,6 +19,8 @@ CCTV16,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.
 CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-4K,http://tvbox6.com/tv/dl/dl668/bestv.php?id=cctv4k
+CCTV-4K,http://120.79.4.185/md0319.php?id=cctv4k
+CCTV-8K,http://120.79.4.185/md0319.php?id=cctv8k
 CCTV风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -88,14 +90,15 @@ CCTV央视文化精品,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-金鹰卡通,http://111.225.92.247:8800/hls/62/index.m3u8
+金鹰卡通,http://171.8.171.150:8800/rtp/239.16.20.104:11040
+金鹰卡通,http://111.175.30.136:8888/rtp/239.69.1.248:11130
 金鹰卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3
 卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-优漫卡通,http://180.109.221.32:8888/rtp/239.49.9.39:6000vid=2041&prioritypopid=40&vqe=3
+优漫卡通,http://221.225.144.106:8888/rtp/239.49.9.39:6000
 优漫卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
-嘉佳卡通,http://121.237.244.154:8000/rtp/239.49.9.39:6000vid=2041&prioritypopid=40&vqe=3
+嘉佳卡通,http://113.78.253.125:8888/udp/239.77.0.179:5146
 嘉佳卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
